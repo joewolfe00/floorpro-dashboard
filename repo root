@@ -1,7 +1,8 @@
 package.json
-index.html
+index.html              ✅ (must be here)
 vite.config.ts
 tsconfig.json
 src/
-  App.tsx
+  App.tsx               ✅ (dashboard code)
   main.tsx
+
